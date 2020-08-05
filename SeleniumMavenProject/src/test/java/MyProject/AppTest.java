@@ -56,5 +56,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+    @Test
+    public void Helooooooooo()
+    {
+        assertTrue( true );
+    }
 }
 
